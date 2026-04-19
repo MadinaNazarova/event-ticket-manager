@@ -1,3 +1,5 @@
+presentation: https://1drv.ms/p/c/ef276fdc3036f9ab/IQDGEswgJWaKTbNTJEhl_AIZAeasMmBdazczFxz9FEQojq0?e=Ya9daC
+
 Nazarova Madina (COMFCI-25)
 
 Event Ticket Sales Manager
