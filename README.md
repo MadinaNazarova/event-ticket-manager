@@ -41,6 +41,3 @@ Encountered Difficulties
 Data Consistency: Ensuring that the correct ticket type (VIP vs Regular) was maintained during the "Update" process. This was solved using the instanceof operator to check the object type before recreating it with a new price.
 
 Input Errors: Handling cases where users enter text instead of numbers. This was resolved by wrapping the scanner logic in a try-catch block.
-
-
-Input Errors: Handling cases where users enter text instead of numbers. This was resolved by wrapping the scanner logic in a try-catch block.
